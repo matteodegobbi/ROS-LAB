@@ -1,0 +1,6 @@
+devel_space: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel
+install: false
+install_space: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/install
+profile: default
+source_space: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src
+workspace: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws

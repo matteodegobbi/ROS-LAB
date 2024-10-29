@@ -1,0 +1,28 @@
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/listener.cpp:1[m[K:
+[01m[K/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/listener.cpp:[m[K In function ‘[01m[Kvoid messageCallback(const ConstPtr&)[m[K’:
+[01m[K/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/listener.cpp:6:10:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 8 has type ‘[01m[Kconst _name_type[m[K’ {aka ‘[01m[Kconst std::__cxx11::basic_string<char>[m[K’} [[01;35m[K-Wformat=[m[K]
+    6 | ROS_INFO([01;35m[K"I heard: [%s] [%d] [%f]"[m[K, msg->name,
+      |          [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 | INE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                 [01;36m[K^~~~~~~~~~~[m[K
+
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                           [01;36m[K^~~~~~~~~~~~[m[K
+
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/listener.cpp:6:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+    6 | [01;36m[KROS_INFO[m[K("I heard: [%s] [%d] [%f]", msg->name,
+      | [01;36m[K^~~~~~~~[m[K
+[01m[K/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/listener.cpp:6:22:[m[K [01;36m[Knote: [m[Kformat string is defined here
+    6 | ROS_INFO("I heard: [[01;36m[K%s[m[K] [%d] [%f]", msg->name,
+      |                     [01;36m[K~^[m[K
+      |                      [01;36m[K|[m[K
+      |                      [01;36m[Kchar*[m[K
