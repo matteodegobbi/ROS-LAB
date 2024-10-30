@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial
+CMAKE_SOURCE_DIR = /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial
+CMAKE_BINARY_DIR = /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -137,14 +137,14 @@ test/fast: test
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(CMAKE_COMMAND) -E cmake_progress_start /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/gtest/CMakeFiles/progress.marks
-	cd /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(MAKE) -f CMakeFiles/Makefile2 gtest/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles 0
+	cd /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(CMAKE_COMMAND) -E cmake_progress_start /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/gtest/CMakeFiles/progress.marks
+	cd /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(MAKE) -f CMakeFiles/Makefile2 gtest/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(MAKE) -f CMakeFiles/Makefile2 gtest/clean
+	cd /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(MAKE) -f CMakeFiles/Makefile2 gtest/clean
 .PHONY : clean
 
 # The main clean target
@@ -154,17 +154,17 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(MAKE) -f CMakeFiles/Makefile2 gtest/preinstall
+	cd /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(MAKE) -f CMakeFiles/Makefile2 gtest/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(MAKE) -f CMakeFiles/Makefile2 gtest/preinstall
+	cd /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(MAKE) -f CMakeFiles/Makefile2 gtest/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Help Target
@@ -191,6 +191,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

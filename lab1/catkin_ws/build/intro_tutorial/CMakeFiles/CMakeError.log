@@ -1,21 +1,21 @@
 Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
-Change Dir: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/CMakeTmp
+Change Dir: /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_deb0f/fast && /usr/bin/make -f CMakeFiles/cmTC_deb0f.dir/build.make CMakeFiles/cmTC_deb0f.dir/build
-make[1]: Entering directory '/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_deb0f.dir/src.c.o
-/usr/bin/cc   -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_deb0f.dir/src.c.o   -c /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/CMakeTmp/src.c
-Linking C executable cmTC_deb0f
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_deb0f.dir/link.txt --verbose=1
-/usr/bin/cc  -DCMAKE_HAVE_LIBC_PTHREAD    -rdynamic CMakeFiles/cmTC_deb0f.dir/src.c.o  -o cmTC_deb0f 
-/usr/bin/ld: CMakeFiles/cmTC_deb0f.dir/src.c.o: in function `main':
+Run Build Command(s):/usr/bin/make cmTC_7a3f6/fast && /usr/bin/make -f CMakeFiles/cmTC_7a3f6.dir/build.make CMakeFiles/cmTC_7a3f6.dir/build
+make[1]: Entering directory '/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7a3f6.dir/src.c.o
+/usr/bin/cc   -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_7a3f6.dir/src.c.o   -c /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_7a3f6
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7a3f6.dir/link.txt --verbose=1
+/usr/bin/cc  -DCMAKE_HAVE_LIBC_PTHREAD    -rdynamic CMakeFiles/cmTC_7a3f6.dir/src.c.o  -o cmTC_7a3f6 
+/usr/bin/ld: CMakeFiles/cmTC_7a3f6.dir/src.c.o: in function `main':
 src.c:(.text+0x46): undefined reference to `pthread_create'
 /usr/bin/ld: src.c:(.text+0x52): undefined reference to `pthread_detach'
 /usr/bin/ld: src.c:(.text+0x63): undefined reference to `pthread_join'
 collect2: error: ld returned 1 exit status
-make[1]: *** [CMakeFiles/cmTC_deb0f.dir/build.make:87: cmTC_deb0f] Error 1
-make[1]: Leaving directory '/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/CMakeTmp'
-make: *** [Makefile:121: cmTC_deb0f/fast] Error 2
+make[1]: *** [CMakeFiles/cmTC_7a3f6.dir/build.make:87: cmTC_7a3f6] Error 1
+make[1]: Leaving directory '/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_7a3f6/fast] Error 2
 
 
 Source file was:
@@ -39,20 +39,20 @@ int main(void)
 }
 
 Determining if the function pthread_create exists in the pthreads failed with the following output:
-Change Dir: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/CMakeTmp
+Change Dir: /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_3f544/fast && /usr/bin/make -f CMakeFiles/cmTC_3f544.dir/build.make CMakeFiles/cmTC_3f544.dir/build
-make[1]: Entering directory '/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_3f544.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_3f544.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.16/Modules/CheckFunctionExists.c
-Linking C executable cmTC_3f544
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3f544.dir/link.txt --verbose=1
-/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_3f544.dir/CheckFunctionExists.c.o  -o cmTC_3f544  -lpthreads 
+Run Build Command(s):/usr/bin/make cmTC_0f1a0/fast && /usr/bin/make -f CMakeFiles/cmTC_0f1a0.dir/build.make CMakeFiles/cmTC_0f1a0.dir/build
+make[1]: Entering directory '/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0f1a0.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_0f1a0.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.16/Modules/CheckFunctionExists.c
+Linking C executable cmTC_0f1a0
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0f1a0.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_0f1a0.dir/CheckFunctionExists.c.o  -o cmTC_0f1a0  -lpthreads 
 /usr/bin/ld: cannot find -lpthreads
 collect2: error: ld returned 1 exit status
-make[1]: *** [CMakeFiles/cmTC_3f544.dir/build.make:87: cmTC_3f544] Error 1
-make[1]: Leaving directory '/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/CMakeTmp'
-make: *** [Makefile:121: cmTC_3f544/fast] Error 2
+make[1]: *** [CMakeFiles/cmTC_0f1a0.dir/build.make:87: cmTC_0f1a0] Error 1
+make[1]: Leaving directory '/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_0f1a0/fast] Error 2
 
 
 

@@ -1,1 +1,1 @@
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/python3/dist-packages/intro_tutorial/srv/__init__.py
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/python3/dist-packages/intro_tutorial/srv/__init__.py

@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial
+CMAKE_SOURCE_DIR = /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial
+CMAKE_BINARY_DIR = /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -137,9 +137,9 @@ install/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

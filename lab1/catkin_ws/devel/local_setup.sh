@@ -1,1 +1,1 @@
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/catkin_tools_prebuild/local_setup.sh
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/catkin_tools_prebuild/local_setup.sh

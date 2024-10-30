@@ -2,8 +2,7 @@
 (cl:in-package :asdf)
 
 (defsystem "intro_tutorial-srv"
-  :depends-on (:roslisp-msg-protocol :roslisp-utils :std_msgs-msg
-)
+  :depends-on (:roslisp-msg-protocol :roslisp-utils )
   :components ((:file "_package")
     (:file "robotservice" :depends-on ("_package_robotservice"))
     (:file "_package_robotservice" :depends-on ("_package"))

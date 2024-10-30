@@ -1,1 +1,2 @@
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/./cmake.lock 12
+/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/./cmake.lock 10
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/./cmake.lock 2

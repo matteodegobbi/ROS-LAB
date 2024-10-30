@@ -1,0 +1,28 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _intro_tutorial_generate_messages_check_deps_msg1
+[  0%] Built target _intro_tutorial_generate_messages_check_deps_robotservice
+[  0%] Built target _intro_tutorial_generate_messages_check_deps_srv1
+[ 43%] Built target intro_tutorial_generate_messages_eus
+[ 43%] Built target intro_tutorial_generate_messages_cpp
+[ 43%] Built target intro_tutorial_generate_messages_nodejs
+[ 43%] Built target intro_tutorial_generate_messages_lisp
+[ 60%] Built target intro_tutorial_generate_messages_py
+[35m[1mScanning dependencies of target station[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/station.dir/src/station.cpp.o[0m
+[ 63%] Built target intro_tutorial_generate_messages
+[ 70%] Built target example3_a
+[ 76%] Built target example3_b
+[ 83%] Built target listener
+[ 90%] Built target talker
+[ 96%] Built target robot
+[01m[K/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/station.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/station.cpp:17:7:[m[K [01;31m[Kerror: [m[K‘[01m[Kstruct intro_tutorial::robotservice[m[K’ has no member named ‘[01m[Kstation_id[m[K’
+   17 |   srv.[01;31m[Kstation_id[m[K = 42;
+      |       [01;31m[K^~~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/station.dir/build.make:63: CMakeFiles/station.dir/src/station.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:780: CMakeFiles/station.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

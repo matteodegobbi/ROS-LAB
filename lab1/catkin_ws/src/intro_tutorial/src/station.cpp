@@ -1,5 +1,6 @@
 #include "ros/ros.h"
 #include "intro_tutorial/srv1.h"
+#include "intro_tutorial/robotservice.h"
 #include <cstdlib>
 int main(int argc, char **argv)
 {
@@ -11,9 +12,9 @@ int main(int argc, char **argv)
   }
   ros::NodeHandle n;
   ros::ServiceClient client =
-    n.serviceClient<intro_tutorial::srv1>("add_3_ints");
+    n.serviceClient<intro_tutorial::robotservice>("add_3_ints");
   intro_tutorial::robotservice srv;
-  srv.station_id = 42;
+  srv.request.station_id = 42;
   //srv.request.A = atoll(argv[1]);
   //srv.request.B = atoll(argv[2]);
   //srv.request.C = atoll(argv[3]);

@@ -1,0 +1,147 @@
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/pkgconfig/intro_tutorial.pc
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/intro_tutorial/talker
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/intro_tutorial/example3_a
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/intro_tutorial/station
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/intro_tutorial/listener
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/intro_tutorial/example3_b
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/intro_tutorial/robot
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/python3/dist-packages/intro_tutorial/__init__.py
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/python3/dist-packages/intro_tutorial/srv/__init__.py
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/python3/dist-packages/intro_tutorial/srv/_robotservice.py
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/python3/dist-packages/intro_tutorial/srv/_srv1.py
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/python3/dist-packages/intro_tutorial/msg/__init__.py
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/python3/dist-packages/intro_tutorial/msg/_msg1.py
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/gennodejs/ros/intro_tutorial/_index.js
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/gennodejs/ros/intro_tutorial/srv/robotservice.js
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/gennodejs/ros/intro_tutorial/srv/srv1.js
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/gennodejs/ros/intro_tutorial/srv/_index.js
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/gennodejs/ros/intro_tutorial/msg/msg1.js
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/gennodejs/ros/intro_tutorial/msg/_index.js
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/intro_tutorial/cmake/intro_tutorialConfig.cmake
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/intro_tutorial/cmake/intro_tutorialConfig-version.cmake
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/intro_tutorial/cmake/intro_tutorial-msg-paths.cmake
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/intro_tutorial/cmake/intro_tutorial-msg-extras.cmake
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/srv/srv1.lisp
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/srv/_package.lisp
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/srv/robotservice.lisp
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/srv/_package_robotservice.lisp
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/srv/_package_srv1.lisp
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/srv/intro_tutorial-srv.asd
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/msg/msg1.lisp
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/msg/intro_tutorial-msg.asd
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/msg/_package.lisp
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/msg/_package_msg1.lisp
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/roseus/ros/intro_tutorial/manifest.l
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/roseus/ros/intro_tutorial/srv/robotservice.l
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/roseus/ros/intro_tutorial/srv/srv1.l
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/roseus/ros/intro_tutorial/msg/msg1.l
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/include/intro_tutorial/srv1.h
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/include/intro_tutorial/robotserviceRequest.h
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/include/intro_tutorial/msg1.h
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/include/intro_tutorial/srv1Request.h
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/include/intro_tutorial/srv1Response.h
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/include/intro_tutorial/robotserviceResponse.h
+Symlinking /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/include/intro_tutorial/robotservice.h
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/cmake.lock, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/./cmake.lock)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/include/intro_tutorial/msg1.h, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/include/intro_tutorial/msg1.h)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/include/intro_tutorial/srv1.h, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/include/intro_tutorial/srv1.h)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/include/intro_tutorial/srv1Request.h, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/include/intro_tutorial/srv1Request.h)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/include/intro_tutorial/srv1Response.h, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/include/intro_tutorial/srv1Response.h)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/example3_a, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/intro_tutorial/example3_a)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/example3_b, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/intro_tutorial/example3_b)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/listener, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/intro_tutorial/listener)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/talker, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/intro_tutorial/talker)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/pkgconfig/intro_tutorial.pc, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/pkgconfig/intro_tutorial.pc)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/python3/dist-packages/intro_tutorial/__init__.py, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/python3/dist-packages/intro_tutorial/__init__.py)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/python3/dist-packages/intro_tutorial/msg/_msg1.py, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/python3/dist-packages/intro_tutorial/msg/_msg1.py)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/python3/dist-packages/intro_tutorial/msg/__init__.py, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/python3/dist-packages/intro_tutorial/msg/__init__.py)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/python3/dist-packages/intro_tutorial/srv/_srv1.py, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/python3/dist-packages/intro_tutorial/srv/_srv1.py)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/python3/dist-packages/intro_tutorial/srv/__init__.py, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/python3/dist-packages/intro_tutorial/srv/__init__.py)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/common-lisp/ros/intro_tutorial/msg/intro_tutorial-msg.asd, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/msg/intro_tutorial-msg.asd)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/common-lisp/ros/intro_tutorial/msg/msg1.lisp, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/msg/msg1.lisp)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/common-lisp/ros/intro_tutorial/msg/_package.lisp, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/msg/_package.lisp)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/common-lisp/ros/intro_tutorial/msg/_package_msg1.lisp, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/msg/_package_msg1.lisp)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/common-lisp/ros/intro_tutorial/srv/intro_tutorial-srv.asd, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/srv/intro_tutorial-srv.asd)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/common-lisp/ros/intro_tutorial/srv/srv1.lisp, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/srv/srv1.lisp)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/common-lisp/ros/intro_tutorial/srv/_package.lisp, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/srv/_package.lisp)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/common-lisp/ros/intro_tutorial/srv/_package_srv1.lisp, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/srv/_package_srv1.lisp)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/gennodejs/ros/intro_tutorial/_index.js, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/gennodejs/ros/intro_tutorial/_index.js)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/gennodejs/ros/intro_tutorial/msg/msg1.js, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/gennodejs/ros/intro_tutorial/msg/msg1.js)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/gennodejs/ros/intro_tutorial/msg/_index.js, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/gennodejs/ros/intro_tutorial/msg/_index.js)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/gennodejs/ros/intro_tutorial/srv/srv1.js, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/gennodejs/ros/intro_tutorial/srv/srv1.js)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/gennodejs/ros/intro_tutorial/srv/_index.js, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/gennodejs/ros/intro_tutorial/srv/_index.js)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/intro_tutorial/cmake/intro_tutorial-msg-extras.cmake, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/intro_tutorial/cmake/intro_tutorial-msg-extras.cmake)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/intro_tutorial/cmake/intro_tutorial-msg-paths.cmake, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/intro_tutorial/cmake/intro_tutorial-msg-paths.cmake)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/intro_tutorial/cmake/intro_tutorialConfig-version.cmake, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/intro_tutorial/cmake/intro_tutorialConfig-version.cmake)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/intro_tutorial/cmake/intro_tutorialConfig.cmake, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/intro_tutorial/cmake/intro_tutorialConfig.cmake)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/roseus/ros/intro_tutorial/manifest.l, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/roseus/ros/intro_tutorial/manifest.l)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/roseus/ros/intro_tutorial/msg/msg1.l, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/roseus/ros/intro_tutorial/msg/msg1.l)
+Cleaning: (/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/roseus/ros/intro_tutorial/srv/srv1.l, /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/roseus/ros/intro_tutorial/srv/srv1.l)
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/include/intro_tutorial/msg1.h
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/include/intro_tutorial/srv1.h
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/include/intro_tutorial/srv1Request.h
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/include/intro_tutorial/srv1Response.h
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/intro_tutorial/example3_a
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/intro_tutorial/example3_b
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/intro_tutorial/listener
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/intro_tutorial/talker
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/pkgconfig/intro_tutorial.pc
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/python3/dist-packages/intro_tutorial/__init__.py
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/python3/dist-packages/intro_tutorial/msg/_msg1.py
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/python3/dist-packages/intro_tutorial/msg/__init__.py
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/python3/dist-packages/intro_tutorial/srv/_srv1.py
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib/python3/dist-packages/intro_tutorial/srv/__init__.py
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/msg/intro_tutorial-msg.asd
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/msg/msg1.lisp
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/msg/_package.lisp
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/msg/_package_msg1.lisp
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/srv/intro_tutorial-srv.asd
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/srv/srv1.lisp
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/srv/_package.lisp
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/common-lisp/ros/intro_tutorial/srv/_package_srv1.lisp
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/gennodejs/ros/intro_tutorial/_index.js
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/gennodejs/ros/intro_tutorial/msg/msg1.js
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/gennodejs/ros/intro_tutorial/msg/_index.js
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/gennodejs/ros/intro_tutorial/srv/srv1.js
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/gennodejs/ros/intro_tutorial/srv/_index.js
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/intro_tutorial/cmake/intro_tutorial-msg-extras.cmake
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/intro_tutorial/cmake/intro_tutorial-msg-paths.cmake
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/intro_tutorial/cmake/intro_tutorialConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/intro_tutorial/cmake/intro_tutorialConfig.cmake
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/roseus/ros/intro_tutorial/manifest.l
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/roseus/ros/intro_tutorial/msg/msg1.l
+Already unlinked: {}
+Unlinking: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/share/roseus/ros/intro_tutorial/srv/srv1.l
+Already unlinked: {}

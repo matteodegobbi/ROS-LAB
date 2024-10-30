@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial
+CMAKE_SOURCE_DIR = /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial
+CMAKE_BINARY_DIR = /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial
 
 # Utility rule file for download_extra_data.
 
@@ -67,6 +67,6 @@ CMakeFiles/download_extra_data.dir/clean:
 .PHONY : CMakeFiles/download_extra_data.dir/clean
 
 CMakeFiles/download_extra_data.dir/depend:
-	cd /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/download_extra_data.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/download_extra_data.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/download_extra_data.dir/depend
 

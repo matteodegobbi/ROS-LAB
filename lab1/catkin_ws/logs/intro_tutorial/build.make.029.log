@@ -1,0 +1,23 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _intro_tutorial_generate_messages_check_deps_msg1
+[  0%] Built target _intro_tutorial_generate_messages_check_deps_srv1
+[  0%] Built target _intro_tutorial_generate_messages_check_deps_robotservice
+[ 23%] Built target intro_tutorial_generate_messages_eus
+[ 23%] Built target intro_tutorial_generate_messages_nodejs
+[ 40%] Built target intro_tutorial_generate_messages_py
+[ 50%] Built target intro_tutorial_generate_messages_cpp
+[ 60%] Built target intro_tutorial_generate_messages_lisp
+[35m[1mScanning dependencies of target station[0m
+[ 60%] Built target intro_tutorial_generate_messages
+[ 63%] [32mBuilding CXX object CMakeFiles/station.dir/src/station.cpp.o[0m
+[ 70%] Built target example3_a
+[ 76%] Built target example3_b
+[ 90%] Built target talker
+[ 90%] Built target listener
+[ 96%] Built target robot
+[100%] [32m[1mLinking CXX executable /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/station[0m
+[100%] Built target station

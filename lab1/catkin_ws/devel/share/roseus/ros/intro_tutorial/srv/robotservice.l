@@ -1,0 +1,1 @@
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/roseus/ros/intro_tutorial/srv/robotservice.l

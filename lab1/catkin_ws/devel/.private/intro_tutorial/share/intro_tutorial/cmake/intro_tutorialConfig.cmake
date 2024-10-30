@@ -67,14 +67,14 @@ set(intro_tutorial_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("TRUE" STREQUAL "TRUE")
-  set(intro_tutorial_SOURCE_PREFIX /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial)
-  set(intro_tutorial_DEVEL_PREFIX /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial)
+  set(intro_tutorial_SOURCE_PREFIX /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial)
+  set(intro_tutorial_DEVEL_PREFIX /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial)
   set(intro_tutorial_INSTALL_PREFIX "")
   set(intro_tutorial_PREFIX ${intro_tutorial_DEVEL_PREFIX})
 else()
   set(intro_tutorial_SOURCE_PREFIX "")
   set(intro_tutorial_DEVEL_PREFIX "")
-  set(intro_tutorial_INSTALL_PREFIX /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/install)
+  set(intro_tutorial_INSTALL_PREFIX /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/install)
   set(intro_tutorial_PREFIX ${intro_tutorial_INSTALL_PREFIX})
 endif()
 
@@ -91,9 +91,9 @@ endif()
 # flag project as catkin-based to distinguish if a find_package()-ed project is a catkin project
 set(intro_tutorial_FOUND_CATKIN_PROJECT TRUE)
 
-if(NOT "/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/include " STREQUAL " ")
+if(NOT "/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/include " STREQUAL " ")
   set(intro_tutorial_INCLUDE_DIRS "")
-  set(_include_dirs "/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/include")
+  set(_include_dirs "/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/include")
   if(NOT " " STREQUAL " ")
     set(_report "Check the issue tracker '' and consider creating a ticket if the problem has not been reported yet.")
   elseif(NOT " " STREQUAL " ")
@@ -110,7 +110,7 @@ if(NOT "/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/in
         message(FATAL_ERROR "Project 'intro_tutorial' specifies '${idir}' as an include dir, which is not found.  It does not exist in '${include}'.  ${_report}")
       endif()
     else()
-      message(FATAL_ERROR "Project 'intro_tutorial' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/${idir}'.  ${_report}")
+      message(FATAL_ERROR "Project 'intro_tutorial' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/${idir}'.  ${_report}")
     endif()
     _list_append_unique(intro_tutorial_INCLUDE_DIRS ${include})
   endforeach()
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib;/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib;/opt/ros/noetic/lib)
+    foreach(path /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib;/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/lib;/opt/ros/noetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

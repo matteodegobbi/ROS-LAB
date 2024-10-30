@@ -1,0 +1,1 @@
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/python3/dist-packages/intro_tutorial/srv/_robotservice.py

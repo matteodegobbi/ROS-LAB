@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial
+CMAKE_SOURCE_DIR = /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial
+CMAKE_BINARY_DIR = /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial
 
 # Include any dependencies generated for this target.
 include CMakeFiles/robot.dir/depend.make
@@ -58,17 +58,17 @@ include CMakeFiles/robot.dir/progress.make
 include CMakeFiles/robot.dir/flags.make
 
 CMakeFiles/robot.dir/src/robot.cpp.o: CMakeFiles/robot.dir/flags.make
-CMakeFiles/robot.dir/src/robot.cpp.o: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/robot.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/robot.dir/src/robot.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/robot.dir/src/robot.cpp.o -c /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/robot.cpp
+CMakeFiles/robot.dir/src/robot.cpp.o: /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/robot.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/robot.dir/src/robot.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/robot.dir/src/robot.cpp.o -c /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/robot.cpp
 
 CMakeFiles/robot.dir/src/robot.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/robot.dir/src/robot.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/robot.cpp > CMakeFiles/robot.dir/src/robot.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/robot.cpp > CMakeFiles/robot.dir/src/robot.cpp.i
 
 CMakeFiles/robot.dir/src/robot.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/robot.dir/src/robot.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/robot.cpp -o CMakeFiles/robot.dir/src/robot.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/robot.cpp -o CMakeFiles/robot.dir/src/robot.cpp.s
 
 # Object files for target robot
 robot_OBJECTS = \
@@ -77,31 +77,31 @@ robot_OBJECTS = \
 # External object files for target robot
 robot_EXTERNAL_OBJECTS =
 
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: CMakeFiles/robot.dir/src/robot.cpp.o
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: CMakeFiles/robot.dir/build.make
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /opt/ros/noetic/lib/libroscpp.so
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /opt/ros/noetic/lib/librosconsole.so
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /opt/ros/noetic/lib/librosconsole_log4cxx.so
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /opt/ros/noetic/lib/librosconsole_backend_interface.so
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /opt/ros/noetic/lib/libxmlrpcpp.so
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /opt/ros/noetic/lib/libroscpp_serialization.so
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /opt/ros/noetic/lib/librostime.so
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /opt/ros/noetic/lib/libcpp_common.so
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: CMakeFiles/robot.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot"
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: CMakeFiles/robot.dir/src/robot.cpp.o
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: CMakeFiles/robot.dir/build.make
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /opt/ros/noetic/lib/libroscpp.so
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/libboost_chrono.so.1.71.0
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /opt/ros/noetic/lib/librosconsole.so
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /opt/ros/noetic/lib/librosconsole_log4cxx.so
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /opt/ros/noetic/lib/librosconsole_backend_interface.so
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /opt/ros/noetic/lib/libxmlrpcpp.so
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /opt/ros/noetic/lib/libroscpp_serialization.so
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /opt/ros/noetic/lib/librostime.so
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /opt/ros/noetic/lib/libcpp_common.so
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot: CMakeFiles/robot.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/robot.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/robot.dir/build: /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot
+CMakeFiles/robot.dir/build: /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/robot
 
 .PHONY : CMakeFiles/robot.dir/build
 
@@ -110,6 +110,6 @@ CMakeFiles/robot.dir/clean:
 .PHONY : CMakeFiles/robot.dir/clean
 
 CMakeFiles/robot.dir/depend:
-	cd /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/robot.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/robot.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/robot.dir/depend
 

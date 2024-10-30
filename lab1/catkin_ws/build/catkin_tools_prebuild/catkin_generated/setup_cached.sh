@@ -7,7 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
-export PWD='/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/catkin_tools_prebuild'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/catkin_tools_prebuild/share/common-lisp'
-export ROS_PACKAGE_PATH="/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/catkin_tools_prebuild:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
+export PWD='/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/catkin_tools_prebuild'
+export ROSLISP_PACKAGE_DIRECTORIES='/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/catkin_tools_prebuild/share/common-lisp'
+export ROS_PACKAGE_PATH="/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/catkin_tools_prebuild:$ROS_PACKAGE_PATH"

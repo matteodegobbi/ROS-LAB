@@ -15,7 +15,6 @@
 #include <ros/builtin_message_traits.h>
 #include <ros/message_operations.h>
 
-#include <std_msgs/Header.h>
 
 namespace intro_tutorial
 {
@@ -25,19 +24,14 @@ struct robotserviceRequest_
   typedef robotserviceRequest_<ContainerAllocator> Type;
 
   robotserviceRequest_()
-    : header()
-    , station_id(0)  {
+    : station_id(0)  {
     }
   robotserviceRequest_(const ContainerAllocator& _alloc)
-    : header(_alloc)
-    , station_id(0)  {
+    : station_id(0)  {
   (void)_alloc;
     }
 
 
-
-   typedef  ::std_msgs::Header_<ContainerAllocator>  _header_type;
-  _header_type header;
 
    typedef int32_t _station_id_type;
   _station_id_type station_id;
@@ -71,8 +65,7 @@ return s;
 template<typename ContainerAllocator1, typename ContainerAllocator2>
 bool operator==(const ::intro_tutorial::robotserviceRequest_<ContainerAllocator1> & lhs, const ::intro_tutorial::robotserviceRequest_<ContainerAllocator2> & rhs)
 {
-  return lhs.header == rhs.header &&
-    lhs.station_id == rhs.station_id;
+  return lhs.station_id == rhs.station_id;
 }
 
 template<typename ContainerAllocator1, typename ContainerAllocator2>
@@ -105,22 +98,22 @@ struct IsMessage< ::intro_tutorial::robotserviceRequest_<ContainerAllocator> con
 
 template <class ContainerAllocator>
 struct IsFixedSize< ::intro_tutorial::robotserviceRequest_<ContainerAllocator> >
-  : FalseType
+  : TrueType
   { };
 
 template <class ContainerAllocator>
 struct IsFixedSize< ::intro_tutorial::robotserviceRequest_<ContainerAllocator> const>
-  : FalseType
+  : TrueType
   { };
 
 template <class ContainerAllocator>
 struct HasHeader< ::intro_tutorial::robotserviceRequest_<ContainerAllocator> >
-  : TrueType
+  : FalseType
   { };
 
 template <class ContainerAllocator>
 struct HasHeader< ::intro_tutorial::robotserviceRequest_<ContainerAllocator> const>
-  : TrueType
+  : FalseType
   { };
 
 
@@ -129,12 +122,12 @@ struct MD5Sum< ::intro_tutorial::robotserviceRequest_<ContainerAllocator> >
 {
   static const char* value()
   {
-    return "0fcc66061f1c95dcabea76fde157bf1f";
+    return "d2e85b14c2a654f53456a276ba4d3d0d";
   }
 
   static const char* value(const ::intro_tutorial::robotserviceRequest_<ContainerAllocator>&) { return value(); }
-  static const uint64_t static_value1 = 0x0fcc66061f1c95dcULL;
-  static const uint64_t static_value2 = 0xabea76fde157bf1fULL;
+  static const uint64_t static_value1 = 0xd2e85b14c2a654f5ULL;
+  static const uint64_t static_value2 = 0x3456a276ba4d3d0dULL;
 };
 
 template<class ContainerAllocator>
@@ -153,24 +146,7 @@ struct Definition< ::intro_tutorial::robotserviceRequest_<ContainerAllocator> >
 {
   static const char* value()
   {
-    return "Header header\n"
-"int32 station_id\n"
-"\n"
-"================================================================================\n"
-"MSG: std_msgs/Header\n"
-"# Standard metadata for higher-level stamped data types.\n"
-"# This is generally used to communicate timestamped data \n"
-"# in a particular coordinate frame.\n"
-"# \n"
-"# sequence ID: consecutively increasing ID \n"
-"uint32 seq\n"
-"#Two-integer timestamp that is expressed as:\n"
-"# * stamp.sec: seconds (stamp_secs) since epoch (in Python the variable is called 'secs')\n"
-"# * stamp.nsec: nanoseconds since stamp_secs (in Python the variable is called 'nsecs')\n"
-"# time-handling sugar is provided by the client library\n"
-"time stamp\n"
-"#Frame this data is associated with\n"
-"string frame_id\n"
+    return "int32 station_id\n"
 ;
   }
 
@@ -189,7 +165,6 @@ namespace serialization
   {
     template<typename Stream, typename T> inline static void allInOne(Stream& stream, T m)
     {
-      stream.next(m.header);
       stream.next(m.station_id);
     }
 
@@ -209,9 +184,6 @@ struct Printer< ::intro_tutorial::robotserviceRequest_<ContainerAllocator> >
 {
   template<typename Stream> static void stream(Stream& s, const std::string& indent, const ::intro_tutorial::robotserviceRequest_<ContainerAllocator>& v)
   {
-    s << indent << "header: ";
-    s << std::endl;
-    Printer< ::std_msgs::Header_<ContainerAllocator> >::stream(s, indent + "  ", v.header);
     s << indent << "station_id: ";
     Printer<int32_t>::stream(s, indent + "  ", v.station_id);
   }

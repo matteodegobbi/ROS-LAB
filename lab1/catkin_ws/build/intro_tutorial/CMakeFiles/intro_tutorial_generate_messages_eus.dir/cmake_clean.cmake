@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/roseus/ros/intro_tutorial/manifest.l"
-  "/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/roseus/ros/intro_tutorial/msg/msg1.l"
-  "/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/roseus/ros/intro_tutorial/srv/robotservice.l"
-  "/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/roseus/ros/intro_tutorial/srv/srv1.l"
+  "/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/roseus/ros/intro_tutorial/manifest.l"
+  "/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/roseus/ros/intro_tutorial/msg/msg1.l"
+  "/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/roseus/ros/intro_tutorial/srv/robotservice.l"
+  "/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/share/roseus/ros/intro_tutorial/srv/srv1.l"
   "CMakeFiles/intro_tutorial_generate_messages_eus"
 )
 
