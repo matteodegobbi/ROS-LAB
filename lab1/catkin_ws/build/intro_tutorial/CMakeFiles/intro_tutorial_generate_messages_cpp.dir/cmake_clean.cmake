@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/include/intro_tutorial/msg1.h"
-  "/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/include/intro_tutorial/robotservice.h"
-  "/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/include/intro_tutorial/srv1.h"
+  "/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/include/intro_tutorial/msg1.h"
+  "/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/include/intro_tutorial/robotservice.h"
+  "/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/include/intro_tutorial/srv1.h"
   "CMakeFiles/intro_tutorial_generate_messages_cpp"
 )
 

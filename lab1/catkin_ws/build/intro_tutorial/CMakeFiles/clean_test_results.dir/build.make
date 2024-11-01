@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial
+CMAKE_SOURCE_DIR = /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial
+CMAKE_BINARY_DIR = /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial
 
 # Utility rule file for clean_test_results.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intr
 include CMakeFiles/clean_test_results.dir/progress.make
 
 CMakeFiles/clean_test_results:
-	/usr/bin/python3 /opt/ros/noetic/share/catkin/cmake/test/remove_test_results.py /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/test_results
+	/usr/bin/python3 /opt/ros/noetic/share/catkin/cmake/test/remove_test_results.py /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/test_results
 
 clean_test_results: CMakeFiles/clean_test_results
 clean_test_results: CMakeFiles/clean_test_results.dir/build.make
@@ -71,6 +71,6 @@ CMakeFiles/clean_test_results.dir/clean:
 .PHONY : CMakeFiles/clean_test_results.dir/clean
 
 CMakeFiles/clean_test_results.dir/depend:
-	cd /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial /home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/clean_test_results.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial /home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/build/intro_tutorial/CMakeFiles/clean_test_results.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/clean_test_results.dir/depend
 

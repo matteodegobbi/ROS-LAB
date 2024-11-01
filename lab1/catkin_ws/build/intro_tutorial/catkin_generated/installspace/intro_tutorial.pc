@@ -1,4 +1,4 @@
-prefix=/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/install
+prefix=/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/install
 
 Name: intro_tutorial
 Description: Description of intro_tutorial

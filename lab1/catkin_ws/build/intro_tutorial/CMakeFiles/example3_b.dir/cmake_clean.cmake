@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/example3_b"
-  "/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/example3_b.pdb"
+  "/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/example3_b"
+  "/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/lib/intro_tutorial/example3_b.pdb"
   "CMakeFiles/example3_b.dir/src/example3_b.cpp.o"
 )
 

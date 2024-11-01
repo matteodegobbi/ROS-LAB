@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/include/intro_tutorial/msg1.h
+/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/devel/.private/intro_tutorial/include/intro_tutorial/msg1.h
 string
 -
 vector
@@ -22,11 +22,11 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/listener.cpp
+/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/listener.cpp
 ros/ros.h
-/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/ros/ros.h
+/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/ros/ros.h
 intro_tutorial/msg1.h
-/home/fogliodicarta/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/intro_tutorial/msg1.h
+/home/local/degmat87367/Desktop/ROS-LAB/lab1/catkin_ws/src/intro_tutorial/src/intro_tutorial/msg1.h
 
 /opt/ros/noetic/include/ros/advertise_options.h
 ros/forwards.h
@@ -299,6 +299,8 @@ ros/init.h
 /opt/ros/noetic/include/ros/ros/init.h
 common.h
 /opt/ros/noetic/include/ros/common.h
+boost/bind.hpp
+-
 xmlrpcpp/XmlRpcValue.h
 -
 
@@ -343,7 +345,7 @@ ros/message.h
 /opt/ros/noetic/include/ros/ros/message.h
 ros/serialization.h
 /opt/ros/noetic/include/ros/ros/serialization.h
-boost/bind/bind.hpp
+boost/bind.hpp
 -
 boost/thread/mutex.hpp
 -
@@ -420,8 +422,6 @@ ros/datatypes.h
 vector
 -
 map
--
-memory
 -
 boost/array.hpp
 -
