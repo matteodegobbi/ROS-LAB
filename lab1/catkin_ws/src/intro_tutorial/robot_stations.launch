@@ -1,0 +1,19 @@
+<launch>
+<!-- Node 1: robot -->
+<node name="robotserver" pkg="intro_tutorial" type="robot" output="screen" />
+<!-- Node 2: station with arguments -->
+<node name="station1" pkg="intro_tutorial" type="station" output="screen" args
+="1 5">
+</node>
+
+<!-- Node 3: station with arguments -->
+<node name="station2" pkg="intro_tutorial" type="station" output="screen" args
+="2 2">
+</node>
+
+<!-- Node 4: station with arguments -->
+<node name="station3" pkg="intro_tutorial" type="station" output="screen" args
+="3 10">
+</node>
+</launch>
+

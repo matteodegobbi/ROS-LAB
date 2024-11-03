@@ -1,0 +1,8 @@
+<launch>
+<!-- Node 1: example3_a -->
+<node name="example3_a" pkg="intro_tutorial" type="example3_a" output="screen" />
+<!-- Node 2: example3_b with arguments -->
+<node name="example3_b" pkg="intro_tutorial" type="example3_b" output="screen" args
+=" 1 2 3">
+</node>
+</launch>
